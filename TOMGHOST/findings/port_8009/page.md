@@ -6,5 +6,5 @@
 Searched for port 8009 enumeration and found that it could be exploited
 :
 
-![](images/18-1.png)
+![](18-1.png)
 :::
