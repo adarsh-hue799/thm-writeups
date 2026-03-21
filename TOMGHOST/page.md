@@ -1,0 +1,5 @@
+::: page
+# TOMGHOST {#tomghost .title}
+
+\
+:::
