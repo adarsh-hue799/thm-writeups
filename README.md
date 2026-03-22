@@ -2,7 +2,7 @@
 
 Hands-on TryHackMe machine writeups documented during active learning.
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Machines](https://img.shields.io/badge/Machines_Rooted-4-blue) ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red) ![Focus](https://img.shields.io/badge/Focus-Offensive_Security-darkred)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Machines](https://img.shields.io/badge/Machines_Rooted-5-blue) ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red) ![Focus](https://img.shields.io/badge/Focus-Offensive_Security-darkred)
 
 *Full process documented — recon to root, including what failed and why.*
 
