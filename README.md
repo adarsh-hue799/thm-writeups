@@ -16,6 +16,7 @@ Hands-on TryHackMe machine writeups documented during active learning.
 | [TOMGHOST](./TOMGHOST) | Easy | Linux | Apache Tomcat, Ghostcat (CVE-2020-1938) |
 | [IGNITE](./IGNITE) | Easy | Linux | Fuel CMS 1.4 RCE, privilege escalation |
 | [ROOTME](./ROOTME) | Easy | Linux | Apache, file upload bypass, SUID Python |
+| [ICE](./ICE) | Easy | Windows | Icecast CVE, Windows privesc, token impersonation, looting |
 
 ---
 
