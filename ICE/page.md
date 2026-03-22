@@ -1,0 +1,5 @@
+::: page
+# ICE {#ice .title}
+
+\
+:::
