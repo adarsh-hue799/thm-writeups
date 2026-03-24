@@ -2,7 +2,7 @@
 
 Hands-on TryHackMe machine writeups documented during active learning.
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Machines](https://img.shields.io/badge/Machines_Rooted-5-blue) ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red) ![Focus](https://img.shields.io/badge/Focus-Offensive_Security-darkred)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![Machines](https://img.shields.io/badge/Machines_Rooted-6-blue) ![Platform](https://img.shields.io/badge/Platform-TryHackMe-red) ![Focus](https://img.shields.io/badge/Focus-Offensive_Security-darkred)
 
 *Full process documented — recon to root, including what failed and why.*
 
@@ -17,7 +17,7 @@ Hands-on TryHackMe machine writeups documented during active learning.
 | [IGNITE](./IGNITE) | Easy | Linux | Fuel CMS 1.4 RCE, privilege escalation |
 | [ROOTME](./ROOTME) | Easy | Linux | Apache, file upload bypass, SUID Python |
 | [ICE](./ICE) | Easy | Windows | Icecast CVE, Windows privesc, token impersonation, looting |
-
+| [BRUTE_IT](./BRUTE_IT) | Easy | Linux | Hydra brute force, John the Ripper, privesc |
 ---
 
 ## ⚙️ Methodology
